@@ -6,7 +6,7 @@ An interactive **Power BI job-market analytics dashboard** for exploring job dem
 
 ## Interactive Dashboard Demo
 
-![Data Jobs Dashboard Demo](assets\Data_Jobs_Dashboard_PowerBI.gif)
+![Data Jobs Dashboard Demo](assets/Data_Jobs_Dashboard_PowerBI.gif)
 
 ## Dashboard preview
 
